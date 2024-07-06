@@ -1,0 +1,14 @@
+/Users/thijsbv/Dev/DiningFilosophers/DiningFilosophers/obj/Debug/net7.0/DiningFilosophers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thijsbv/Dev/DiningFilosophers/DiningFilosophers/obj/Debug/net7.0/DiningFilosophers.AssemblyInfoInputs.cache
+/Users/thijsbv/Dev/DiningFilosophers/DiningFilosophers/obj/Debug/net7.0/DiningFilosophers.AssemblyInfo.cs
+/Users/thijsbv/Dev/DiningFilosophers/DiningFilosophers/obj/Debug/net7.0/DiningFilosophers.csproj.CoreCompileInputs.cache
+/Users/thijsbv/Dev/DiningFilosophers/DiningFilosophers/bin/Debug/net7.0/DiningFilosophers
+/Users/thijsbv/Dev/DiningFilosophers/DiningFilosophers/bin/Debug/net7.0/DiningFilosophers.deps.json
+/Users/thijsbv/Dev/DiningFilosophers/DiningFilosophers/bin/Debug/net7.0/DiningFilosophers.runtimeconfig.json
+/Users/thijsbv/Dev/DiningFilosophers/DiningFilosophers/bin/Debug/net7.0/DiningFilosophers.dll
+/Users/thijsbv/Dev/DiningFilosophers/DiningFilosophers/bin/Debug/net7.0/DiningFilosophers.pdb
+/Users/thijsbv/Dev/DiningFilosophers/DiningFilosophers/obj/Debug/net7.0/DiningFilosophers.dll
+/Users/thijsbv/Dev/DiningFilosophers/DiningFilosophers/obj/Debug/net7.0/refint/DiningFilosophers.dll
+/Users/thijsbv/Dev/DiningFilosophers/DiningFilosophers/obj/Debug/net7.0/DiningFilosophers.pdb
+/Users/thijsbv/Dev/DiningFilosophers/DiningFilosophers/obj/Debug/net7.0/DiningFilosophers.genruntimeconfig.cache
+/Users/thijsbv/Dev/DiningFilosophers/DiningFilosophers/obj/Debug/net7.0/ref/DiningFilosophers.dll
